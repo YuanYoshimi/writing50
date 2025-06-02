@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.70ee1264.css",
-    "main.js": "/static/js/main.22395f88.js",
-    "static/js/453.891b1407.chunk.js": "/static/js/453.891b1407.chunk.js",
-    "static/media/assets_task_01jwq9mh56fvn89bjpjwpzmfpb_1748833621_img_0.png": "/static/media/assets_task_01jwq9mh56fvn89bjpjwpzmfpb_1748833621_img_0.aae1a1dd3dae2d2a32ea.png",
-    "static/media/assets_task_01jwq8zmyme2vs1f603v67te7y_1748832951_img_1.png": "/static/media/assets_task_01jwq8zmyme2vs1f603v67te7y_1748832951_img_1.667894529075e0577ace.png",
-    "static/media/images (3).jpeg": "/static/media/images (3).e9589bef999eb03b2fab.jpeg",
-    "static/media/images (4).jpeg": "/static/media/images (4).f5250df91d0a729c3df9.jpeg",
-    "static/media/download (1).jpeg": "/static/media/download (1).0d53ceb4518258f1b42d.jpeg",
-    "index.html": "/index.html",
-    "main.70ee1264.css.map": "/static/css/main.70ee1264.css.map",
-    "main.22395f88.js.map": "/static/js/main.22395f88.js.map",
-    "453.891b1407.chunk.js.map": "/static/js/453.891b1407.chunk.js.map"
+    "main.css": "/writing50/static/css/main.70ee1264.css",
+    "main.js": "/writing50/static/js/main.0242ce29.js",
+    "static/js/453.891b1407.chunk.js": "/writing50/static/js/453.891b1407.chunk.js",
+    "static/media/assets_task_01jwq9mh56fvn89bjpjwpzmfpb_1748833621_img_0.png": "/writing50/static/media/assets_task_01jwq9mh56fvn89bjpjwpzmfpb_1748833621_img_0.aae1a1dd3dae2d2a32ea.png",
+    "static/media/assets_task_01jwq8zmyme2vs1f603v67te7y_1748832951_img_1.png": "/writing50/static/media/assets_task_01jwq8zmyme2vs1f603v67te7y_1748832951_img_1.667894529075e0577ace.png",
+    "static/media/images (3).jpeg": "/writing50/static/media/images (3).e9589bef999eb03b2fab.jpeg",
+    "static/media/images (4).jpeg": "/writing50/static/media/images (4).f5250df91d0a729c3df9.jpeg",
+    "static/media/download (1).jpeg": "/writing50/static/media/download (1).0d53ceb4518258f1b42d.jpeg",
+    "index.html": "/writing50/index.html",
+    "main.70ee1264.css.map": "/writing50/static/css/main.70ee1264.css.map",
+    "main.0242ce29.js.map": "/writing50/static/js/main.0242ce29.js.map",
+    "453.891b1407.chunk.js.map": "/writing50/static/js/453.891b1407.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70ee1264.css",
-    "static/js/main.22395f88.js"
+    "static/js/main.0242ce29.js"
   ]
 }
